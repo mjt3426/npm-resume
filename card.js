@@ -73,7 +73,7 @@ const questions = [
             {
                 name: "Just quit.",
                 value: () => {
-                    console.log("Hasta la vista.\n");
+                    console.log("I hope to talk to you soon.\n");
                 },
             },
         ],

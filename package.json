@@ -1,6 +1,6 @@
 {
     "name": "mjt3426",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "author": "Mike Tomaselli (michael@tomasellicreativesolutions.com)",
     "description": "A personal card for Mike Tomaselli",
     "main": "card.js",
@@ -10,7 +10,7 @@
         "url": "https://github.com/mjt3426/npm-resume.git"
     },
     "scripts": {
-        "setup": "ncu -u && npm i",
+        "setup": "npm i",
         "start": "node card.js"
     },
     "dependencies": {

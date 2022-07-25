@@ -1,4 +1,5 @@
 # Project exclude paths
+.npmrc
 /node_modules/
 /.idea/
 .idea/

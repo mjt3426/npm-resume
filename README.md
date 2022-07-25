@@ -8,7 +8,7 @@
 ```bash
 npx mjt3426
 ```
-![]()
+!["snapshot-npm.PNG"](https://github.com/mjt3426/npm-resume/blob/main/public_images/snapshot-npm.PNG?raw=true)
 <br />
 
 ### <strong>Get Connected Today</strong>

@@ -1,12 +1,13 @@
 {
     "name": "mjt3426",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "author": "Mike Tomaselli (michael@tomasellicreativesolutions.com)",
     "description": "A personal card for Mike Tomaselli",
     "main": "card.js",
     "bin": "./card.js",
     "repository": {
         "type": "git",
+        "owner": "mjt3426",
         "url": "https://github.com/mjt3426/npm-resume.git"
     },
     "scripts": {
@@ -19,6 +20,7 @@
         "clear": "^0.1.0",
         "cli-spinners": "^2.5.0",
         "inquirer": "^7.3.3",
+        "mjt3426": "^0.0.8",
         "open": "^7.3.1",
         "request": "^2.88.2"
     },

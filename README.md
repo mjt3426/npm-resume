@@ -16,13 +16,13 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 <br />
 
 
-### Feel free to fork this repo and make your own! Super easy to do.
+### Feel free to fork this repo and make your own!
 <br />
 
 ---
 
 <br />
 
-### Template originally created by eAnmol Pratap Singh](https://github.com/anmol098) and new functionality added by me.
+### Template originally created by Anmol Pratap Singh](https://github.com/anmol098) and new functionality added by me.
 
 ### 💻 His [Github repo](https://github.com/anmol098/npx_card) for this project.

@@ -23,6 +23,6 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 
 <br />
 
-### This project was originally created by [Anmol Pratap Singh](https://github.com/anmol098) and tweaked a little by me. It's mostly his hardwork so all the credit goes to him.
+### Template originally created by eAnmol Pratap Singh](https://github.com/anmol098) and new functionality added by me.
 
 ### 💻 His [Github repo](https://github.com/anmol098/npx_card) for this project.

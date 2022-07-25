@@ -6,21 +6,17 @@
 ### <strong>👇 just hit this in your terminal</strong>
 
 ```bash
-npx rahikhan
+npx mjt3426
 ```
-
+![]()
 <br />
 
-### <strong>🚀 DEMO</strong>
-
-![demo.gif](https://cdn.hashnode.com/res/hashnode/image/upload/v1610360119791/rLM8MkTgG.gif)
-
+### <strong>Get Connected Today</strong>
+Get connected through twitter, github, linkedin, a website, and email. Right now the website and resume url are "TBD" and wil throw errors. 
 <br />
 
-<br />
 
-### <strong>⚡ Wanna make your own NPX Business Card?</strong>
-### Check out my blog on [Hashnode](https://rahikhan.hashnode.dev/create-a-simple-npx-business-card) or [Dev.to](https://dev.to/rahikhan/create-a-simple-npx-business-card-2j4i) and follow the steps!
+### Feel free to fork this repo and make your own! Super easy to do.
 <br />
 
 ---

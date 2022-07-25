@@ -1,6 +1,6 @@
 {
     "name": "mjt3426",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "author": "Mike Tomaselli (michael@tomasellicreativesolutions.com)",
     "description": "A personal card for Mike Tomaselli",
     "main": "card.js",
@@ -19,9 +19,8 @@
         "clear": "^0.1.0",
         "cli-spinners": "^2.5.0",
         "inquirer": "^7.3.3",
-        "mjt3426": "^0.0.1",
+        "mjt3426": "0.0.4",
         "open": "^7.3.1",
-        "ora": "^5.3.0",
         "request": "^2.88.2"
     },
     "keywords": [

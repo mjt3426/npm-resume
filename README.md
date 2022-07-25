@@ -12,7 +12,7 @@ npx mjt3426
 <br />
 
 ### <strong>Get Connected Today</strong>
-Get connected through twitter, github, linkedin, a website, and email. Right now the website and resume url are "TBD" and wil throw errors. 
+Get connected through twitter, github, linkedin, a website, and email. Right now the website and resume url are "TBD" and will throw errors. 
 <br />
 
 

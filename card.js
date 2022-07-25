@@ -71,9 +71,9 @@ const questions = [
             },
             //// Quit
             {
-                name: "Just quit.",
+                name: "Exit.",
                 value: () => {
-                    console.log("I hope to talk to you soon.\n");
+                    console.log("I look forward to hearing from you.\n");
                 },
             },
         ],
@@ -81,9 +81,9 @@ const questions = [
 ];
 
 const data = {
-    name: chalk.bold.green(`                  ${user_name}`),
+    name: chalk.bold.green(`              ${user_name}`),
     // work: `${chalk.white("Software Engineer at")} ${chalk.hex("#2b82b2").bold("ClearTax")}`,
-    work: `${chalk.white(`${job_title}`)}`,
+    work: `${chalk.white(`${job_title}`)} ${chalk.hex("#2b82b2").bold("Looking for Work")}`,
     twitter: chalk.gray("https://twitter.com/") + chalk.cyan(`${twitter_username}`),
     github: chalk.gray("https://github.com/") + chalk.green(`${github_username}`),
     linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue(`${linkedin_username}`),
@@ -121,7 +121,7 @@ const me = boxen(
         float: "center",
         padding: 1,
         borderStyle: "single",
-        borderColor: "green",
+        borderColor: "blue",
     }
 );
 

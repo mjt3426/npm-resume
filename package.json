@@ -1,6 +1,6 @@
 {
     "name": "mjt3426",
-    "version": "0.0.4",
+    "version": "0.0.5",
     "author": "Mike Tomaselli (michael@tomasellicreativesolutions.com)",
     "description": "A personal card for Mike Tomaselli",
     "main": "card.js",

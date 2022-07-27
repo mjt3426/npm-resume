@@ -52,3 +52,16 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 </div>
 
 ```
+<strong>Sample code to add a new project by just copy and paste</strong>
+```bash
+<div class="flex flex-col space-y-0.5">
+	<a href="https://github.com/rahi-khan/asit-website" target="_blank" rel="noreferrer">
+		<h1 class="text-gray-800 font-bold text-lg">
+			ASIT Official Website
+		</h1>
+	</a>
+	<h1 class="text-gray-600 text-sm">
+		Official website of ASIT for showcasing their products and services, built with React, Bootstrap
+	</h1>
+</div>
+```

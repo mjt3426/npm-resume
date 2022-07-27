@@ -46,10 +46,12 @@ Code samples are commented in the HTML file as well.
 	</h2>
 	<ul class="list-disc list-inside text-gray-600 text-sm">
 		<li>
-			Developed the official website</li>
+			Developed the official website
+			</li>
 		<li>
 			Worked with a variety of different languages and frameworks such as Javascript, 
-			React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
+			React, Bootstrap and a variety different libraries for development and Figma for mockup
+			</li>
 	</ul>
 </div>
 

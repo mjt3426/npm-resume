@@ -25,7 +25,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 ##Resume Code Samples
 <br />
 ###Boilerplate code for adding job experience
-<pre><code>
+```bash
 			<!-- Sample Job Experience 
 			<div class="flex flex-col space-y-1 pb-4">
 			<h1>
@@ -47,4 +47,5 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 				<li>
 					Worked with a variety of different languages and frameworks such as Javascript, React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
 				</ul>
-			</div>--></code></pre>
+			</div>-->
+```

@@ -22,7 +22,30 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 ---
 
 <br />
+###Resume Code Samples
 
-### Template originally created by Anmol Pratap Singh](https://github.com/anmol098) and new functionality added by me.
-
-### 💻 His [Github repo](https://github.com/anmol098/npx_card) for this project.
+##Boilerplate code for adding job experience
+<code>
+			<!-- Sample Job Experience 
+			<div class="flex flex-col space-y-1 pb-4">
+			<h1>
+				<span class="text-gray-800 font-bold text-lg">
+					Freelance Contract
+				</span>
+				<a href="http://web.asit.com.bd" target="_blank" rel="noreferrer">
+					<span class="text-gray-500 font-semibold text-lg">
+						@ Advanced Software &amp; IT Services LTD
+					</span>
+				</a>
+			</h1>
+			<h2 class="text-gray-600 text-base font-semibold">
+				Dec, 2020
+			</h2>
+			<ul class="list-disc list-inside text-gray-600 text-sm">
+				<li>
+					Developed the official website</li>
+				<li>
+					Worked with a variety of different languages and frameworks such as Javascript, React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
+				</ul>
+			</div>-->
+      </code>

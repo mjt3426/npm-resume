@@ -23,6 +23,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 
 <br />
 <strong>Resume Code Samples</strong>
+Code samples are commented in the HTML file as well.
 <br />
 <strong>Sample code to add experience by just copy and paste</strong>
 
@@ -63,5 +64,18 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 	<h1 class="text-gray-600 text-sm">
 		Official website of ASIT for showcasing their products and services, built with React, Bootstrap
 	</h1>
+</div>
+```
+
+<strong>Sample code to add a skill category by just copy and paste</strong>
+
+```bash
+<div class="flex flex-col space-y-0.5">
+	<h1 class="text-gray-800 font-bold text-lg">
+		Programming Languages
+	</h1>
+		<p class="text-gray-600 text-sm">
+			Javascript, HTML, CSS, Python, SQL, Solidity
+		</p>
 </div>
 ```

@@ -22,7 +22,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 ---
 
 <br />
-<center><strong>Resume Code Samples</strong></center><br>
+<h1 align="center"><strong>Resume Code Samples</strong></center></h1></br>
 Code samples are commented in the HTML file as well.
 <br />
 <br />

@@ -25,6 +25,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 <center><strong>Resume Code Samples</strong></center><br>
 Code samples are commented in the HTML file as well.
 <br />
+<br />
 <strong>Sample code to add experience by just copy and paste</strong>
 
 ```bash

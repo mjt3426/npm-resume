@@ -23,7 +23,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 
 <br />
 ###Resume Code Samples
-
+<br />
 ##Boilerplate code for adding job experience
 <code>
 			<!-- Sample Job Experience 

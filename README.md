@@ -50,7 +50,7 @@ Code samples are commented in the HTML file as well.
 		<li>
 			Worked with a variety of different languages and frameworks such as Javascript, 
 			React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
-		</ul>
+	</ul>
 </div>
 
 ```

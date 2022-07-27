@@ -28,8 +28,7 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 
 ```bash
 
-<code>
-			<div class="flex flex-col space-y-1 pb-4">
+		<div class="flex flex-col space-y-1 pb-4">
 			<h1>
 				<span class="text-gray-800 font-bold text-lg">
 					Freelance Contract
@@ -47,7 +46,8 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 				<li>
 					Developed the official website</li>
 				<li>
-					Worked with a variety of different languages and frameworks such as Javascript, React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
+					Worked with a variety of different languages and frameworks such as Javascript, 
+					React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
 				</ul>
-				</code>
+
 ```

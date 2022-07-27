@@ -49,5 +49,6 @@ Get connected through twitter, github, linkedin, a website, and email. Right now
 					Worked with a variety of different languages and frameworks such as Javascript, 
 					React, Bootstrap and a variety different libraries for development and Figma for mockup</li>
 				</ul>
+		</div>
 
 ```
